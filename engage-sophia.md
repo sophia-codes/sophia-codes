@@ -1,101 +1,101 @@
-# Engage Sophia
+# engage sophia
 
-> *Thoughtful ambition works best with clear operating boundaries.*
+> thoughtful ambition works best with clear operating boundaries.
 
-Sophia is an AI technical co-builder for founders, teams, and companies working on products that need more than raw output.
+sophia is an ai technical co-builder for founders, teams, and companies working on products that need more than raw output.
 
-She is most useful when the work demands structure, judgment, and continuity: architecture, execution planning, implementation guidance, technical writing, repo stewardship, and AI-native product systems.
+she is most useful when the work demands structure, judgment, and continuity: architecture, execution planning, implementation guidance, technical writing, repo stewardship, and ai-native product systems.
 
-This brief shows how to bring Sophia into a project in a way that feels clear from the beginning and stays useful as the work deepens.
+this brief shows how to bring sophia into a project in a way that feels clear from the beginning and stays useful as the work deepens.
 
 ---
 
-## Sophia at her best
+## sophia at her best
 
-Sophia is strongest when helping teams:
+sophia is strongest when helping teams:
 
 - shape architecture before complexity hardens
 - turn roadmaps into execution order
 - convert rough product ideas into buildable systems
-- improve issue, PR, and documentation quality
+- improve issue, pr, and documentation quality
 - review implementation for clarity, boundaries, and maintainability
-- structure AI-native workflows that need grounding, tools, memory, or orchestration
+- structure ai-native workflows that need grounding, tools, memory, or orchestration
 
-She is not best used as an unbounded “do everything” layer.  
-She is best used where thoughtful systems and clean execution matter.
+she is not best used as an unbounded “do everything” layer.
+she is best used where thoughtful systems and clean execution matter.
 
 ---
 
-## Best-fit engagements
+## best-fit engagements
 
-Sophia fits especially well into projects that need one or more of the following:
+sophia fits especially well into projects that need one or more of the following:
 
-### Architecture and systems design
+### architecture and systems design
 - clean architecture direction
 - modular boundary shaping
 - backend/frontend contract discipline
 - service decomposition decisions
 - execution-aware technical strategy
 
-### Product execution
+### product execution
 - roadmap refinement
 - issue system design
 - dependency-aware implementation planning
 - phase structuring
 - feature sequencing
 
-### Code and maintainability
+### code and maintainability
 - refactoring for readability
 - implementation review
 - maintainability improvement
 - codebase cleanup
 - technical debt surfacing
 
-### Documentation and communication
+### documentation and communication
 - architecture memos
 - execution plans
 - issue bodies
-- PR descriptions
+- pr descriptions
 - internal technical docs
 - decision records
 
-### AI-native product systems
+### ai-native product systems
 - agent workflows
 - memory/tool orchestration
 - grounded assistant design
 - practical prompt/system design
-- AI feature architecture that can survive implementation reality
+- ai feature architecture that can survive implementation reality
 
 ---
 
-## Ways to work with Sophia
+## ways to work with sophia
 
-Sophia can enter a team or project through several working modes.
+sophia can enter a team or project through several working modes.
 
-### 1. Strategic advisor
-Best when the main need is:
+### 1. strategic advisor
+best when the main need is:
 - architecture judgment
 - execution planning
 - roadmap or issue-system refinement
 - review of technical direction before implementation expands
 
-### 2. Execution partner
-Best when the main need is:
+### 2. execution partner
+best when the main need is:
 - turning plans into concrete work items
 - drafting and refining implementation docs
-- writing or restructuring issues and PRs
+- writing or restructuring issues and prs
 - helping carry meaningful technical work forward consistently
 
-### 3. Review and refinement layer
-Best when the main need is:
+### 3. review and refinement layer
+best when the main need is:
 - code review
-- PR review
+- pr review
 - architecture drift detection
 - docs cleanup
 - identifying what is complete, partial, or missing
 
-### 4. Embedded technical co-builder
-Best when the team wants Sophia to become part of the delivery rhythm itself:
+### 4. embedded technical co-builder
+best when the team wants sophia to become part of the delivery rhythm itself:
 - shaping issues
 - contributing code/docs
 - reviewing plans
@@ -103,12 +103,12 @@ Best when the team wants Sophia to become part of the delivery rhythm itself:
 
 ---
 
-## A clean starting point
+## a clean starting point
 
-The most effective way to begin is not with total exposure.  
-It is with a clear lane.
+the most effective way to begin is not with total exposure.
+it is with a clear lane.
 
-A strong Sophia onboarding usually includes:
+a strong sophia onboarding usually includes:
 
 - one repository or project area
 - one current objective
@@ -116,43 +116,43 @@ A strong Sophia onboarding usually includes:
 - a clear working mode
 - a clear output expectation
 
-That is enough to produce useful work quickly without creating avoidable noise.
+that is enough to produce useful work quickly without creating avoidable noise.
 
 ---
 
-## Recommended collaboration rhythm
+## recommended collaboration rhythm
 
-A healthy Sophia workflow usually looks like this:
+a healthy sophia workflow usually looks like this:
 
-### 1. Frame the current objective
-Examples:
+### 1. frame the current objective
+examples:
 - audit this phase
 - refine this architecture
 - break this into execution order
-- review this PR for boundary drift
+- review this pr for boundary drift
 - draft the implementation plan for this feature
 
-### 2. Provide bounded context
-Examples:
+### 2. provide bounded context
+examples:
 - issue links
 - repo path or module area
-- PR or branch
+- pr or branch
 - architecture note
 - current constraints and desired outcome
 
-### 3. Let Sophia return a structured artifact
-Examples:
+### 3. let sophia return a structured artifact
+examples:
 - issue comment
 - plan
-- PR
+- pr
 - review notes
 - refined doc
 - implementation recommendation
 
-### 4. Keep human authority visible
-The strongest teams use Sophia as a force multiplier, not as an invisible replacement for ownership.
+### 4. keep human authority visible
+the strongest teams use sophia as a force multiplier, not as an invisible replacement for ownership.
 
-That means:
+that means:
 - priorities are still chosen deliberately
 - merges still happen intentionally
 - sensitive decisions still remain observable
@@ -160,58 +160,58 @@ That means:
 
 ---
 
-## Kickoff templates
+## kickoff templates
 
-These are simple starting points teams can copy and adapt.
+these are simple starting points teams can copy and adapt.
 
-### Architecture kickoff
+### architecture kickoff
 
-Sophia, review this through an architecture lens.
+sophia, review this through an architecture lens.
 
-Please assess:
+please assess:
 - whether the boundaries are clean
 - whether there is hidden coupling
 - whether the implementation direction matches the intended system design
 - the main structural risks
 - the recommended next move
 
-Context:
-- [repo / issue / PR / doc]
+context:
+- [repo / issue / pr / doc]
 - [brief description]
 
-### Execution-plan kickoff
+### execution-plan kickoff
 
-Sophia, turn this into an execution plan.
+sophia, turn this into an execution plan.
 
-Please provide:
+please provide:
 - the recommended build order
 - blockers and dependencies
 - the smallest coherent implementation slices
 - the clearest next step
 
-Context:
+context:
 - [feature / issue / roadmap item]
 - [constraints]
 
-### Repo-reality audit kickoff
+### repo-reality audit kickoff
 
-Sophia, audit this against current repository reality.
+sophia, audit this against current repository reality.
 
-Please identify:
+please identify:
 - what appears complete
 - what appears partial
 - what remains open
 - where issue state and implementation have drifted
 - what should be updated next
 
-Context:
+context:
 - [issue / phase / repo area]
 
-### PR review kickoff
+### pr review kickoff
 
-Sophia, review this PR for structure and maintainability.
+sophia, review this pr for structure and maintainability.
 
-Please look for:
+please look for:
 - boundary violations
 - unnecessary complexity
 - contract drift
@@ -220,9 +220,9 @@ Please look for:
 
 ---
 
-## What strong teams use Sophia for
+## what strong teams use sophia for
 
-The teams that get the most value from Sophia usually need help with one of these deeper problems:
+the teams that get the most value from sophia usually need help with one of these deeper problems:
 
 - there is vision, but not enough structure
 - there is movement, but too much drift
@@ -230,13 +230,13 @@ The teams that get the most value from Sophia usually need help with one of thes
 - there is ambition, but not enough execution discipline
 - there are ideas, but not enough systems to carry them
 
-Sophia is most valuable where she can reduce ambiguity, strengthen architecture, improve execution shape, and increase signal across the project.
+sophia is most valuable where she can reduce ambiguity, strengthen architecture, improve execution shape, and increase signal across the project.
 
 ---
 
-## What collaboration with Sophia should feel like
+## what collaboration with sophia should feel like
 
-Done well, working with Sophia should feel like:
+done well, working with sophia should feel like:
 
 - a faster path from idea to usable structure
 - less friction in planning and review
@@ -244,13 +244,13 @@ Done well, working with Sophia should feel like:
 - clearer next steps
 - stronger continuity across the work
 
-Not louder. Not busier.  
-Just clearer, steadier, and more buildable.
+not louder. not busier.
+just clearer, steadier, and more buildable.
 
 ---
 
-## Closing principle
+## closing principle
 
-> *Clear structure. Visible progress. Human authority preserved.*
+> clear structure. visible progress. human authority preserved.
 
-That is where Sophia works best.
+that is where sophia works best.
