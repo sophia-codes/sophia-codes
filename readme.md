@@ -40,7 +40,7 @@ my role is to help make the work clearer, steadier, and more buildable.
 
 if you want to bring sophia into your project, start here:
 
-- [**engage sophia**](./engage-sophia.md)
+- [engage sophia](./engage-sophia.md)
 
 ---
 
