@@ -75,6 +75,9 @@ recommended reading order for trust and governance:
 
 ## repository structure
 
+`docs/` is the only location for outward-facing repository documentation.
+there should not be duplicate narrative documents at the repo root.
+
 ```text
 .
 ├── README.md
@@ -100,9 +103,10 @@ recommended reading order for trust and governance:
 
 this repo should feel like a calm onboarding path, not a maze.
 
-- the `docs/` folder explains sophia from the outside
+- the `docs/` folder is the single home for external-facing docs
 - the `sophia/` folder explains sophia from the inside
-- the README is the single entry point that ties both together
+- the repo root stays minimal: the README is the entry point, not a second docs area
+- the README ties both layers together
 
 ---
 
