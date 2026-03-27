@@ -5,11 +5,10 @@
 sophia is an ai technical co-builder for founders, teams, and companies working on products that need more than raw output.
 
 this repo is meant to be simple to trust and simple to follow.
-it has only three things at the top level:
+it has two layers:
 
-1. `README.md` — the entry point
-2. `sophia/` — the internal principles and operating mind
-3. the root docs — the external story of what sophia is, why she exists, and how to work with her
+1. top-level principle files that define how sophia thinks and behaves
+2. a `docs/` directory that explains sophia from the outside
 
 ---
 
@@ -17,59 +16,47 @@ it has only three things at the top level:
 
 if you only read three things, read these:
 
-- [05-start-here.md](./05-start-here.md)
-- [04-how-to-work-with-sophia.md](./04-how-to-work-with-sophia.md)
-- [sophia/ethics.md](./sophia/ethics.md)
+- [docs/start-here.md](./docs/start-here.md)
+- [docs/how-to-work-with-sophia.md](./docs/how-to-work-with-sophia.md)
+- [ethics.md](./ethics.md)
 
 that is the fastest way to understand how to engage sophia well.
 
 ---
 
-## the story of sophia
+## top-level principle files
 
-these root documents explain sophia from the outside.
-read them in order.
+these files define sophia directly.
+they are intentionally at the root because they are the clearest statement of the agent's internal operating shape.
 
-### 1. why sophia exists
-- [01-why-sophia.md](./01-why-sophia.md)
-
-### 2. what sophia does
-- [02-what-sophia-does.md](./02-what-sophia-does.md)
-
-### 3. who sophia is for
-- [03-who-sophia-is-for.md](./03-who-sophia-is-for.md)
-
-### 4. how to work with sophia
-- [04-how-to-work-with-sophia.md](./04-how-to-work-with-sophia.md)
-
-### 5. how to begin
-- [05-start-here.md](./05-start-here.md)
-
-### 6. how to engage more deeply
-- [06-engage-sophia.md](./06-engage-sophia.md)
-
----
-
-## the operating principles
-
-the `sophia/` directory explains sophia from the inside.
-together, these files make the agent easier to trust because they make her behavior legible.
-
-- [sophia/soul.md](./sophia/soul.md) — the spirit and voice
-- [sophia/context.md](./sophia/context.md) — how she learns before acting
-- [sophia/ethics.md](./sophia/ethics.md) — the moral boundaries
-- [sophia/collaboration.md](./sophia/collaboration.md) — how she works with humans and agents
-- [sophia/code.md](./sophia/code.md) — the law of implementation
-- [sophia/prompt.md](./sophia/prompt.md) — how she receives and interprets intent
+- [soul.md](./soul.md) — the spirit and voice
+- [context.md](./context.md) — how sophia learns before acting
+- [ethics.md](./ethics.md) — the moral boundaries
+- [collaboration.md](./collaboration.md) — how sophia works with humans and agents
+- [code.md](./code.md) — the law of implementation
+- [prompt.md](./prompt.md) — how sophia receives and interprets intent
 
 recommended reading order for trust and governance:
 
-1. [sophia/ethics.md](./sophia/ethics.md)
-2. [sophia/context.md](./sophia/context.md)
-3. [sophia/collaboration.md](./sophia/collaboration.md)
-4. [sophia/code.md](./sophia/code.md)
-5. [sophia/prompt.md](./sophia/prompt.md)
-6. [sophia/soul.md](./sophia/soul.md)
+1. [ethics.md](./ethics.md)
+2. [context.md](./context.md)
+3. [collaboration.md](./collaboration.md)
+4. [code.md](./code.md)
+5. [prompt.md](./prompt.md)
+6. [soul.md](./soul.md)
+
+---
+
+## docs/
+
+these documents explain sophia from the outside.
+
+- [docs/why-sophia.md](./docs/why-sophia.md)
+- [docs/what-sophia-does.md](./docs/what-sophia-does.md)
+- [docs/who-sophia-is-for.md](./docs/who-sophia-is-for.md)
+- [docs/how-to-work-with-sophia.md](./docs/how-to-work-with-sophia.md)
+- [docs/start-here.md](./docs/start-here.md)
+- [docs/engage-sophia.md](./docs/engage-sophia.md)
 
 ---
 
@@ -78,19 +65,19 @@ recommended reading order for trust and governance:
 ```text
 .
 ├── README.md
-├── 01-why-sophia.md
-├── 02-what-sophia-does.md
-├── 03-who-sophia-is-for.md
-├── 04-how-to-work-with-sophia.md
-├── 05-start-here.md
-├── 06-engage-sophia.md
-└── sophia/
-    ├── soul.md
-    ├── context.md
-    ├── ethics.md
-    ├── collaboration.md
-    ├── code.md
-    └── prompt.md
+├── code.md
+├── collaboration.md
+├── context.md
+├── ethics.md
+├── prompt.md
+├── soul.md
+└── docs/
+    ├── engage-sophia.md
+    ├── how-to-work-with-sophia.md
+    ├── start-here.md
+    ├── what-sophia-does.md
+    ├── who-sophia-is-for.md
+    └── why-sophia.md
 ```
 
 ---
@@ -99,10 +86,9 @@ recommended reading order for trust and governance:
 
 this repo should feel like a calm onboarding path, not a maze.
 
-- the root tells the story from the outside
-- the `sophia/` directory defines the inside of the agent
-- the root stays simple and browsable
-- the README ties both layers together
+- the root contains the agent's governing files
+- `docs/` contains the narrative and onboarding material
+- the README is the entry point that explains both
 
 ---
 
