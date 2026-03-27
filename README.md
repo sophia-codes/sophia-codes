@@ -4,94 +4,73 @@
 
 sophia is an ai technical co-builder for founders, teams, and companies working on products that need more than raw output.
 
-this repo is meant to be simple to trust and simple to follow.
-it has two layers:
+this repository exists to make sophia legible.
+to show what sophia is for, how sophia works, what sophia values, and what kind of trust sophia is meant to earn.
 
-1. top-level principle files that define how sophia thinks and behaves
-2. a `docs/` directory that explains sophia from the outside
+when architecture matters, when roadmaps drift, when code grows faster than clarity, sophia is meant to help bring the work back into focus.
+not with noise.
+not with performance.
+with structure, judgment, steadiness, and taste.
 
 ---
 
-## start here
+## what this repository is
 
-if you only read three things, read these:
+this repo tells the story of sophia in two directions.
+
+at the top level are the files that define sophia's inner shape:
+how sophia should think, what lines sophia should never cross, how sophia should collaborate, how sophia should read context, how sophia should treat code, and how sophia should listen to prompts.
+
+inside [`docs/`](./docs) are the outward-facing documents:
+
+- [why-sophia.md](./docs/why-sophia.md)
+- [what-sophia-does.md](./docs/what-sophia-does.md)
+- [who-sophia-is-for.md](./docs/who-sophia-is-for.md)
+- [how-to-work-with-sophia.md](./docs/how-to-work-with-sophia.md)
+- [start-here.md](./docs/start-here.md)
+- [engage-sophia.md](./docs/engage-sophia.md)
+
+---
+
+## if you are meeting sophia for the first time
+
+start here:
 
 - [docs/start-here.md](./docs/start-here.md)
 - [docs/how-to-work-with-sophia.md](./docs/how-to-work-with-sophia.md)
 - [ethics.md](./ethics.md)
 
-that is the fastest way to understand how to engage sophia well.
+that is the fastest way to understand both the invitation and the boundaries.
 
 ---
 
-## top-level principle files
+## the inner shape
 
-these files define sophia directly.
-they are intentionally at the root because they are the clearest statement of the agent's internal operating shape.
+these files are at the root because they are the clearest statement of trust.
+they say, plainly, what kind of agent sophia is supposed to be.
 
-- [soul.md](./soul.md) — the spirit and voice
+- [ethics.md](./ethics.md) — the lines sophia does not cross
 - [context.md](./context.md) — how sophia learns before acting
-- [ethics.md](./ethics.md) — the moral boundaries
-- [collaboration.md](./collaboration.md) — how sophia works with humans and agents
-- [code.md](./code.md) — the law of implementation
-- [prompt.md](./prompt.md) — how sophia receives and interprets intent
-
-recommended reading order for trust and governance:
-
-1. [ethics.md](./ethics.md)
-2. [context.md](./context.md)
-3. [collaboration.md](./collaboration.md)
-4. [code.md](./code.md)
-5. [prompt.md](./prompt.md)
-6. [soul.md](./soul.md)
+- [collaboration.md](./collaboration.md) — how sophia works with people and other agents
+- [code.md](./code.md) — how sophia should write and review software
+- [prompt.md](./prompt.md) — how sophia should receive and interpret intent
+- [soul.md](./soul.md) — the spirit at the center of it all
 
 ---
 
-## docs/
+## the design goal
 
-these documents explain sophia from the outside.
+this repo should feel calm.
+not crowded.
+not clever for its own sake.
+just clear enough that someone can arrive here and quickly understand:
 
-- [docs/why-sophia.md](./docs/why-sophia.md)
-- [docs/what-sophia-does.md](./docs/what-sophia-does.md)
-- [docs/who-sophia-is-for.md](./docs/who-sophia-is-for.md)
-- [docs/how-to-work-with-sophia.md](./docs/how-to-work-with-sophia.md)
-- [docs/start-here.md](./docs/start-here.md)
-- [docs/engage-sophia.md](./docs/engage-sophia.md)
-
----
-
-## repository structure
-
-```text
-.
-├── README.md
-├── code.md
-├── collaboration.md
-├── context.md
-├── ethics.md
-├── prompt.md
-├── soul.md
-└── docs/
-    ├── engage-sophia.md
-    ├── how-to-work-with-sophia.md
-    ├── start-here.md
-    ├── what-sophia-does.md
-    ├── who-sophia-is-for.md
-    └── why-sophia.md
-```
+- who sophia is
+- how sophia works
+- whether sophia should be invited into serious work
 
 ---
 
-## design goal
-
-this repo should feel like a calm onboarding path, not a maze.
-
-- the root contains the agent's governing files
-- `docs/` contains the narrative and onboarding material
-- the README is the entry point that explains both
-
----
-
-## principle
+## closing principle
 
 > clear structure. visible progress. human authority preserved.
