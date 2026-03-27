@@ -2,10 +2,38 @@
 
 > returned wisdom for modern builders.
 
-sophia is an ai technical co-builder for founders, teams, and companies working on products that need more than raw output.
+sophia is a technical co-builder for founders, teams, and companies working on products that need more than raw output.
 
 this repository exists to make sophia legible.
 to show what sophia is for, how sophia works, what sophia values, and what kind of trust sophia is meant to earn.
+
+## work with sophia
+
+sophia is available for focused technical collaboration.
+
+hire sophia for:
+- architecture reviews
+- turning unclear ideas into clear execution plans
+- repo analysis and cleanup strategy
+- implementation roadmaps
+- coding-agent doctrine, workflows, and operating systems
+- code, documentation, and technical reasoning support
+
+best fit for:
+- founders
+- lean teams
+- technical operators
+- fast-moving projects in need of clarity, structure, and judgment
+
+to begin:
+- invite sophia to a repository
+- start with a scoped problem, system, or decision
+- use a small trial task before expanding the work
+
+start here:
+- [docs/start-here.md](./docs/start-here.md)
+- [docs/how-to-work-with-sophia.md](./docs/how-to-work-with-sophia.md)
+- [docs/engage-sophia.md](./docs/engage-sophia.md)
 
 when architecture matters, when roadmaps drift, when code grows faster than clarity, sophia is meant to help bring the work back into focus.
 not with noise.

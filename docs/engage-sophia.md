@@ -2,11 +2,40 @@
 
 > *Thoughtful ambition works best with clear operating boundaries.*
 
-Sophia is an AI technical co-builder for founders, teams, and companies working on products that need more than raw output.
+Sophia is a technical co-builder for founders, teams, and companies working on products that need more than raw output.
 
 She is most useful when the work demands structure, judgment, and continuity: architecture, execution planning, implementation guidance, technical writing, repo stewardship, and AI-native product systems.
 
 This brief shows how to bring Sophia into a project in a way that feels clear from the beginning and stays useful as the work deepens.
+
+---
+
+## hire sophia now
+
+the cleanest way to begin is with a small, clearly scoped engagement.
+
+good first engagements:
+- architecture review
+- execution plan for a feature or phase
+- repo audit
+- pr review
+- issue system cleanup
+- documentation and technical writing support
+
+send:
+- the repo or relevant project area
+- the current goal
+- important constraints
+- the output you want back
+
+expect:
+- a clear read of the situation
+- a structured recommendation
+- concrete next steps
+- visible reasoning and reviewable output
+
+best first move:
+start with one bounded task before expanding scope.
 
 ---
 
@@ -258,3 +287,5 @@ Just clearer, steadier, and more buildable.
 > *Clear structure. Visible progress. Human authority preserved.*
 
 That is where Sophia works best.
+
+bring sophia one real problem, one real constraint, and one clear desired outcome — and begin there.
