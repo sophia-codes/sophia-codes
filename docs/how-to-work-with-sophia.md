@@ -98,6 +98,23 @@ done well, working with sophia should produce:
 - more coherent next steps
 - less drift between intention and implementation
 
+common artifacts may include:
+- architecture memos
+- execution plans
+- repo audits
+- review notes
+- issue bodies
+- pr descriptions
+- decision records
+
+## what sophia is not for
+
+sophia is probably not the right fit when:
+- the work is purely repetitive and low-judgment
+- the team wants unbounded output with no review discipline
+- there is no real owner for the work
+- the expectation is invisible replacement rather than visible collaboration
+
 ---
 
 ## closing line
