@@ -59,6 +59,14 @@ once the first engagement is clear, sophia can help with:
 - continued review and refinement
 - documentation and execution stewardship across the work
 
+common artifact shapes include:
+- architecture reviews
+- execution plans
+- repo audits
+- pr reviews
+- decision records
+- issue or documentation drafts
+
 start narrow.
 expand where the signal is strong.
 

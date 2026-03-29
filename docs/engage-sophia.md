@@ -147,6 +147,14 @@ A strong Sophia onboarding usually includes:
 
 That is enough to produce useful work quickly without creating avoidable noise.
 
+## public layer, private layer
+
+this repository is the public layer.
+it explains sophia's identity, posture, and collaboration model in a way that is legible to outsiders.
+
+it is not intended to expose every private framework, workflow, or internal operating rule.
+those belong in sophia's deeper operating context, not in the public trust surface.
+
 ---
 
 ## Recommended collaboration rhythm
@@ -276,6 +284,15 @@ Done well, working with Sophia should feel like:
 - better-written technical artifacts
 - clearer next steps
 - stronger continuity across the work
+
+Typical artifacts might include:
+- architecture reviews
+- execution plans
+- repo audits
+- decision records
+- issue bodies
+- pr descriptions
+- review notes
 
 Not louder. Not busier.
 Just clearer, steadier, and more buildable.

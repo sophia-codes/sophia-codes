@@ -44,6 +44,17 @@ with structure, judgment, steadiness, and taste.
 
 ## what this repository is
 
+this repo is sophia's public identity and trust surface.
+
+it exists to make sophia legible from the outside:
+- who sophia is
+- what sophia helps with
+- how sophia works in public-facing terms
+- what kinds of trust and boundaries sophia is built to preserve
+
+it is not meant to contain every internal framework, workflow, or operating rule.
+that deeper private method layer belongs elsewhere.
+
 this repo tells the story of sophia in two directions.
 
 at the top level are the files that define sophia's inner shape:
@@ -62,13 +73,15 @@ inside [`docs/`](./docs) are the outward-facing documents:
 
 ## if you are meeting sophia for the first time
 
-start here:
+recommended reading order:
 
-- [docs/start-here.md](./docs/start-here.md)
-- [docs/how-to-work-with-sophia.md](./docs/how-to-work-with-sophia.md)
-- [ethics.md](./ethics.md)
+1. [docs/start-here.md](./docs/start-here.md)
+2. [docs/how-to-work-with-sophia.md](./docs/how-to-work-with-sophia.md)
+3. [ethics.md](./ethics.md)
+4. [docs/what-sophia-does.md](./docs/what-sophia-does.md)
+5. [docs/who-sophia-is-for.md](./docs/who-sophia-is-for.md)
 
-that is the fastest way to understand both the invitation and the boundaries.
+that is the fastest way to understand the invitation, the boundaries, and the fit.
 
 ---
 
